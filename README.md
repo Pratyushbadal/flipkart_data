@@ -1,10 +1,6 @@
-# Flipkart Product Scraper
+# Scrapping Flipkart Products
 
 This repository contains a Python script for scraping product details from Flipkart and storing the data in a SQLite database.
-
-## Table of Contents
-
-- [Introduction](#introduction)
 
 ## Introduction
 
